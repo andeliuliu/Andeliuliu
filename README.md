@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Liu</h1>
-<h3 align="center">A Junior at Boston University studying</h3>
+<h3 align="center">A Junior at Boston University Studying Computer Science :D</h3>
 
 - 🔭 I’m currently working on **my own full-stack website using React.js and PostgreSQL**
 
