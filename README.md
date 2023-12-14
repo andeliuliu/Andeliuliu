@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Andrew Liu</h1>
+w<h1 align="center">Hi 👋, I'm Andrew Liu</h1>
 <h3 align="center">A Junior at Boston University Studying Computer Science</h3>
 
 - 🔭 I’m currently working on **my own full-stack website using React.js and PostgreSQL**
 
-- 🌱 I’m currently learning **how to develop in assembly, Linux, and C :D**
+- 🌱 I’m currently learning **Data structures and complex algorithms 💯**
 
 - 📫 How to reach me **andeliuliu88@gmail.com**
 
