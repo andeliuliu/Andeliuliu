@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andeliuliu&show_icons=true&locale=en&layout=compact" alt="andeliuliu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andeliuliu&show_icons=true&locale=en" alt="andeliuliu" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andeliuliu&" alt="andeliuliu" /></p>
