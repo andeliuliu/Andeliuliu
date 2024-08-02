@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **andeliuliu88@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1eHuKpPM3AyK6SaCjg4NlbCRiszUnuXxDJrPudgJ6k2c/edit?usp=sharing](https://docs.google.com/document/d/1eHuKpPM3AyK6SaCjg4NlbCRiszUnuXxDJrPudgJ6k2c/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume!](https://docs.google.com/document/d/1bMO49LSx6oAMcxXQSF9OkM_n9BabSOGjFwP0MxHiFzc/edit?usp=sharing)
 
 - ⚡ Fun fact **I am an avid Laker's enthusist**
 
