@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrew Liu</h1>
-<h3 align="center">A Junior at Boston University Studying Computer Science</h3>
+<h3 align="center">A Senior at Boston University Studying Computer Science</h3>
 
-- 🔭 I’m currently working on **my own full-stack website using React.js, Tailwind CSS, and HTML**
+- 🔭 I’m currently working as a Software Engineer Intern, primarily building an AI powered slackbot using Ruby on Rails**
 
-- 🌱 I’m currently learning **Data structures and complex algorithms 💯**
+- 🌱 I’m currently learning **LLM application building and smart contracts💯**
 
 - 📫 How to reach me **andeliuliu88@gmail.com**
 
