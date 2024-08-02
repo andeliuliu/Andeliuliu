@@ -9,7 +9,7 @@
 
 - 📄 To find out more, click on [My Resume!](https://docs.google.com/document/d/1bMO49LSx6oAMcxXQSF9OkM_n9BabSOGjFwP0MxHiFzc/edit?usp=sharing)
 
-- ⚡ Fun fact **I am an avid Laker's enthusist**
+- ⚡ Fun fact: **currently training for a half marathon!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
