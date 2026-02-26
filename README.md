@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrew Liu</h1>
 <h3 align="center">A New Grad from Boston University with a Bachelors in Computer Science</h3>
 
-- 🔭 I’m currently working as a Software Engineer Intern, primarily building an AI powered slackbot using Ruby on Rails**
-
-- 🌱 I’m currently learning **LLM application building and smart contracts💯**
+- 🔭 I’m currently working as a Software Engineer at Ascent Partners
 
 - 📫 How to reach me **andeliuliu88@gmail.com**
-
-- 📄 To find out more, click on [My Resume!](https://docs.google.com/document/d/1bMO49LSx6oAMcxXQSF9OkM_n9BabSOGjFwP0MxHiFzc/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
